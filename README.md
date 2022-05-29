@@ -1,8 +1,8 @@
 [![Header](https://github.com/N1l2/N1l2/blob/main/assets/download(2).gif)](https://www.youtube.com/channel/UCAwJJvq8jKOBPOFxLXQFpDw/videos)
 
 ## About me
-### I am the chief programmer at GGC . I am also an information security specialist
-### At the age of 13 I'm starting to write a game engine for my game
+⚡- I am the chief programmer at GGC . I am also an information security specialist
+🌱- At the age of 13 I'm starting to write a game engine for my game
 
 ## Latest 
 
@@ -14,7 +14,8 @@
 ![C](https://img.shields.io/badge/-C%23-000000?style=for-the-badge&logo=C&logoColor=965AD6)
 ![.Net](https://img.shields.io/badge/-.framework-000000?style=for-the-badge&logo=.Net&logoColor=6296CC)
 ![sql](https://img.shields.io/badge/-.sql-000000?style=for-the-badge&logo=mysql&logoColor=00648b)
-
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
 ## Follow Me
 
 [![Youtube](https://img.shields.io/badge/-Youtube-090909?style=for-the-badge&logo=Youtube&logoColor=FF0000)](https://www.youtube.com/channel/UCAwJJvq8jKOBPOFxLXQFpDw)
