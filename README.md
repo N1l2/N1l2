@@ -8,7 +8,7 @@
 
 ---
 
-## folow me
+## Connect with me
 
 [![Youtube](https://img.shields.io/badge/-Youtube-090909?style=for-the-badge&logo=Youtube&logoColor=FF0000)](https://www.youtube.com/channel/UCAwJJvq8jKOBPOFxLXQFpDw)
 [![Discord](https://img.shields.io/badge/-discord-090909?style=for-the-badge&logo=Discord&logoColor=#5562EA)](https://discord.gg/X3uQdEQRJ5)
