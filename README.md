@@ -1,16 +1,21 @@
 [![Header](https://github.com/N1l2/N1l2/blob/main/assets/download(2).gif)](https://www.youtube.com/channel/UCAwJJvq8jKOBPOFxLXQFpDw/videos)
 
+---
+
 ## About me
 ⚡- I am the chief programmer at GGC . I am also an information security specialist
 🌱- At the age of 13 I'm starting to write a game engine for my game
 
-## Latest 
+---
 
 ## folow me
 
 [![Youtube](https://img.shields.io/badge/-Youtube-090909?style=for-the-badge&logo=Youtube&logoColor=FF0000)](https://www.youtube.com/channel/UCAwJJvq8jKOBPOFxLXQFpDw)
 [![Discord](https://img.shields.io/badge/-discord-090909?style=for-the-badge&logo=Discord&logoColor=#5562EA)](https://discord.gg/X3uQdEQRJ5)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=#5562EA)](https://t.me/N1l32)
+
+---
+
 ## Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="39px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
@@ -20,8 +25,13 @@
 <img align="left" alt="Visual Studio Code" width="35px" src="https://github.com/N1l2/N1l2/blob/main/assets/premium-icon-sql-server-5815585.png" style="padding-right:10px;"/>
 
 
+<br />
+<br />
 
+---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N1l2&show_icons=true&theme=tokyonight&locale=ru)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N1l2&layout=compact)](https://github.com/N1l2)
