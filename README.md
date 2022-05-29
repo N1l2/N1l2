@@ -9,13 +9,14 @@
 
 ## Languages and Tools
 
-![Java](https://img.shields.io/badge/-java-000000?style=for-the-badge&logo=java&logoColor=FF6501)
-![C++](https://img.shields.io/badge/-С++-000000?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 ![C](https://img.shields.io/badge/-C%23-000000?style=for-the-badge&logo=C&logoColor=965AD6)
 ![.Net](https://img.shields.io/badge/-.framework-000000?style=for-the-badge&logo=.Net&logoColor=6296CC)
 ![sql](https://img.shields.io/badge/-.sql-000000?style=for-the-badge&logo=mysql&logoColor=00648b)
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="C++" width="30px" src="https://github.com/N1l2/N1l2/blob/main/assets/icons8-c%2B%2B.svg" style="padding-right:100px;" />][webdevplaylist]
+[<img align="left" alt="Java" width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-plain-wordmark.svg" style="padding-right:100px;" />][webdevplaylist]
+[<img align="left" alt="C#" width="30px" src="https://github.com/N1l2/N1l2/blob/main/assets/icons8-c%2B%2B.svg" style="padding-right:100px;" />][webdevplaylist]
+
 ## Follow Me
 
 [![Youtube](https://img.shields.io/badge/-Youtube-090909?style=for-the-badge&logo=Youtube&logoColor=FF0000)](https://www.youtube.com/channel/UCAwJJvq8jKOBPOFxLXQFpDw)
