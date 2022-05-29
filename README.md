@@ -1,8 +1,8 @@
 [![Header](https://github.com/N1l2/N1l2/blob/main/assets/download(2).gif)](https://www.youtube.com/channel/UCAwJJvq8jKOBPOFxLXQFpDw/videos)
 
 ## About me
-I am the chief programmer at GGC . I am also an information security specialist
-At the age of 13 I'm starting to write a game engine for my game
+### I am the chief programmer at GGC . I am also an information security specialist
+### At the age of 13 I'm starting to write a game engine for my game
 
 ## Latest 
 
