@@ -13,3 +13,4 @@
 
 ## Follow Me
 
+[![Youtube](https://img.shields.io/badge/-Youtube-090909?style=for-the-badge&logo=Youtube&logoColor=FF0000)](https://www.youtube.com/channel/UCAwJJvq8jKOBPOFxLXQFpDw)
