@@ -3,7 +3,7 @@
 ---
 
 ## About me
-- ⚡ I am the chief programmer at GGC . I am also an information security specialist
+- ⚡ I am the chief programmer at GGC . And also a an information security specialist
 - 🌱 At the age of 13 I'm starting to write a game engine for my game
 
 ---
