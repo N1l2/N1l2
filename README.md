@@ -15,7 +15,7 @@
 ![.Net](https://img.shields.io/badge/-.framework-000000?style=for-the-badge&logo=.Net&logoColor=6296CC)
 ![sql](https://img.shields.io/badge/-.sql-000000?style=for-the-badge&logo=mysql&logoColor=00648b)
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="C++" width="26px" src="https://github.com/N1l2/N1l2/blob/main/assets/icons8-c%2B%2B-96.png" style="padding-right:10px;" />][webdevplaylist]
 ## Follow Me
 
 [![Youtube](https://img.shields.io/badge/-Youtube-090909?style=for-the-badge&logo=Youtube&logoColor=FF0000)](https://www.youtube.com/channel/UCAwJJvq8jKOBPOFxLXQFpDw)
