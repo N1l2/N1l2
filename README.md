@@ -9,13 +9,12 @@
 
 ## Languages and Tools
 
-![C](https://img.shields.io/badge/-C%23-000000?style=for-the-badge&logo=C&logoColor=965AD6)
-![.Net](https://img.shields.io/badge/-.framework-000000?style=for-the-badge&logo=.Net&logoColor=6296CC)
-![sql](https://img.shields.io/badge/-.sql-000000?style=for-the-badge&logo=mysql&logoColor=00648b)
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="C++" width="30px" src="https://github.com/N1l2/N1l2/blob/main/assets/icons8-c%2B%2B.svg" style="padding-right:100px;" />][webdevplaylist]
-[<img align="left" alt="Java" width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-plain-wordmark.svg" style="padding-right:100px;" />][webdevplaylist]
-[<img align="left" alt="C#" width="30px" src="https://github.com/N1l2/N1l2/blob/main/assets/icons8-c%2B%2B.svg" style="padding-right:100px;" />][webdevplaylist]
+<img align="left" alt="Visual Studio Code" width="39px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="C++" width="39px" src="https://github.com/N1l2/N1l2/blob/main/assets/icons8-c%2B%2B.svg" style="padding-right:100px;" />
+<img align="left" alt="Java" width="39px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-plain-wordmark.svg" style="padding-right:100px;"/>
+<img align="left" alt="C#" width="39px" src="https://github.com/N1l2/N1l2/blob/main/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png" style="padding-right:100px;"/>
+<img align="left" alt="Visual Studio Code" width="35px" src="https://github.com/N1l2/N1l2/blob/main/assets/premium-icon-sql-server-5815585.png" style="padding-right:10px;"/>
+
 
 ## Follow Me
 
