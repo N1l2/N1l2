@@ -12,7 +12,7 @@
 ## Connect with me
 
 [![Youtube](https://img.shields.io/badge/-Youtube-090909?style=for-the-badge&logo=Youtube&logoColor=FF0000)](https://www.youtube.com/channel/UCAwJJvq8jKOBPOFxLXQFpDw)
-[![Discord](https://img.shields.io/badge/-discord-090909?style=for-the-badge&logo=Discord&logoColor=#5562EA)](https://discord.gg/RRTF9ZfQ9v)
+[![Discord](https://img.shields.io/badge/-discord-090909?style=for-the-badge&logo=Discord&logoColor=#5562EA)](https://discord.gg/HTuEgNcsJb)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=#5562EA)](https://t.me/N1l32)
 
 ---
